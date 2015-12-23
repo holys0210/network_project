@@ -1,0 +1,3 @@
+header_type.h : tcp header와 ip hdear 구조체를 가지고 있으며 아마존 서버를 목적지로 하고 있는 ACK의 샘플 ack_packet을 가지고 있다.
+
+checksum.c : tcp와 ip 패킷의 체크섬을 계산하여 준다.
